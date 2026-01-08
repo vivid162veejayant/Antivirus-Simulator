@@ -1,5 +1,4 @@
-                   Sentinel AV
-
+Sentinel AV
 
 Sentinel AV is a browser-based antivirus simulator designed for educational purposes. It lets users explore how antivirus software works—including scanning, detecting, quarantining, and reporting threats—entirely in a safe, simulated environment using HTML, CSS, and JavaScript.
 
